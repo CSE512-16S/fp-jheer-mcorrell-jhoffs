@@ -15,8 +15,6 @@ A breakdown of how the work was split among the group members and a commentary o
 
 ## Project
 
-![Overview](overview.png)
-
 This is an example repository for the final project submission.  Put your abstract from your final paper here.
 
 [Poster](https://github.com/CSE512-16S/fp-jheer-mcorrell-jhoffs/raw/master/final/poster-jheer-mcorrell-jhoffs.pdf),
